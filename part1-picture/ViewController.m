@@ -23,7 +23,7 @@
 
 @end
 
-@implementation ViewController
+@implementation ViewController
 
 - (NSArray *)imageDicts{
 //我猜：这个方法是从plist里取图片的路径呢吧
